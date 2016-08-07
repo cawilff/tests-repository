@@ -1,3 +1,3 @@
 # tests-repository
 tests-repository
-#this repository content csharp code.
+#this repository contains csharp code.
